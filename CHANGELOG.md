@@ -12,4 +12,6 @@
 
 ### 新增
 
+- examples/p07-quotation-pricing、examples/p10-quotation-tutorial、examples/p14-customer-tier：商务云示例原型三页——自 qtcloud-business 的 `examples/` 平移
+
 - 仓库初始化：README、CHANGELOG 与许可
